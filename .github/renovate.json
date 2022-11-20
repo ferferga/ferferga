@@ -1,0 +1,14 @@
+{
+  "packageRules": [
+    {
+      "matchDepTypes": ["action"],
+      "groupName": "CI dependencies",
+      "groupSlug": "ci-deps"
+    }
+  ],
+  "dependencyDashboard": false,
+  "enabledManagers": ["github-actions"],
+  "labels": ["dependencies"],
+  "rebaseWhen": "behind-base-branch",
+  "rangeStrategy": "pin"
+}

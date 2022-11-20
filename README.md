@@ -12,5 +12,6 @@ you can consider a one-time or recurrent donation through [GitHub Sponsors](http
 
 **Welcome to my profile!**
 
-<img align="left" src="https://raw.githubusercontent.com/ferferga/ferferga/main/ferferga-metrics_left.svg">
-<img align="right" src="https://raw.githubusercontent.com/ferferga/ferferga/main/ferferga-metrics_right.svg">
+<div style="display: flex">
+  <img src="https://raw.githubusercontent.com/ferferga/ferferga/main/ferferga-metrics.png">
+</div>

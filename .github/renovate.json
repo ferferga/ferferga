@@ -1,9 +1,10 @@
 {
   "packageRules": [
     {
-      "matchDepTypes": ["action"],
+      "matchManagers": ["github-actions"],
       "groupName": "CI dependencies",
-      "groupSlug": "ci-deps"
+      "groupSlug": "ci-deps",
+      "separateMajorMinor": false
     }
   ],
   "dependencyDashboard": false,

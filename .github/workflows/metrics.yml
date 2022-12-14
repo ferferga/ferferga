@@ -17,6 +17,7 @@ jobs:
       - name: 📊 Personal metrics
         uses: lowlighter/metrics@latest
         with:
+          use_prebuilt_image: no
           token: ${{ secrets.ACCESS_TOKEN }}
           user: ferferga
           template: classic

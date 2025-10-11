@@ -15,7 +15,7 @@ jobs:
           fetch-depth: 0
 
       - name: 📊 Personal metrics
-        uses: lowlighter/metrics@v3.34
+        uses: lowlighter/metrics@master
         with:
           token: ${{ secrets.ACCESS_TOKEN }}
           user: ferferga

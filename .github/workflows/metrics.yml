@@ -22,6 +22,7 @@ jobs:
           user: ferferga
           template: classic
           base: header, activity, community, repositories, metadata
+          debug: true
           base_indepth: yes
           base_hireable: yes
           config_output: png

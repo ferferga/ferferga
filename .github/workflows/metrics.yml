@@ -63,6 +63,7 @@ jobs:
           # plugin_traffic: yes - Disabled due to lack of access to org repos I own. TODO: Fix upstream so errors in this plugin can be ignored
           plugins_errors_fatal: yes
           repositories: 99999999999999999999999
+          repositories_owned: no
           repositories_affiliations: ""
           output_action: none
           retries: 10
